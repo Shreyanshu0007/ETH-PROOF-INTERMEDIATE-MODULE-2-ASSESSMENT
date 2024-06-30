@@ -38,7 +38,7 @@ Shreyanshu Pandey <br> [@shreyanshupandey](pandeyrishi562@gmail.com)
 
 ## License
 
-This Insurance policy contract is licensed under the MIT License 
+This Coffee Shop Dapp contract is licensed under the MIT License 
 
 
 
